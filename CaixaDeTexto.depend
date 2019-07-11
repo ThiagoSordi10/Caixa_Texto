@@ -1,0 +1,37 @@
+# depslib dependency file v1.0
+1562455670 source:c:\users\thiago sordi\desktop\thiagosordit4\src\avancado.cpp
+	"mpc_c.h"
+	"caixaTexto.h"
+	<math.h>
+
+1293057508 c:\users\thiago sordi\desktop\thiagosordit4\include\mpc_c.h
+	<GL/glut.h>
+	"definitions.h"
+
+924731306 c:\users\thiago sordi\desktop\thiagosordit4\include\gl\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1107059720 c:\users\thiago sordi\desktop\thiagosordit4\include\gl\gl.h
+
+1107059720 c:\users\thiago sordi\desktop\thiagosordit4\include\gl\glu.h
+	<stddef.h>
+	<GL/gl.h>
+
+1322679380 c:\users\thiago sordi\desktop\thiagosordit4\include\definitions.h
+
+1562784162 c:\users\thiago sordi\desktop\thiagosordit4\src\caixatexto.h
+	<string>
+
+1562774358 source:c:\users\thiago sordi\desktop\thiagosordit4\src\caixatexto.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"mpc_c.h"
+	"caixaTexto.h"
+
+1562773615 source:c:\users\thiago sordi\desktop\thiagosordit4\src\main.cpp
+	"mpc_c.h"
+	"caixaTexto.h"
+
